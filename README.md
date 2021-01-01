@@ -1,2 +1,2 @@
 # repo-for-webhooks
-A dummy repo to get webhhook events from.
+A dummy repo to get webhhook events from
